@@ -67,13 +67,3 @@ app/
 2. Presiona **"Guardar Recordatorio"** para agregarlo a la lista.
 3. Ajusta el tamaño de letra con el **slider** (de 14sp a 30sp).
 4. Cierra y vuelve a abrir la app: el tamaño de texto se conservará.
-
----
-
-## 👓 Objetivo
-
-Brindar una herramienta **simple, accesible y funcional** para ayudar a los adultos mayores a recordar sus medicinas y usar la aplicación sin dificultad visual.
-
----
-
-¿Quieres que el README lo adapte en formato Markdown completo (con emojis, títulos y listo para subir a GitHub)?
